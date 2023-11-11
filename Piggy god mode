@@ -99,14 +99,14 @@ local text = library:MakeLabel(tab1,"Put off to escape")
 
 local button = library:MakeButton(tab1,"Fly",function(button)
 
-loadstring(game:HttpGet('https://pastebin.com/raw/ggGXmt2N'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Thanhtv68/Scripts/main/Hehe%201'))()
 
 end)
 
 
 local button = library:MakeButton(tab1,"Esp",function(button)
 
-loadstring(game:HttpGet('https://pastebin.com/raw/hpMC6ULU'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Thanhtv68/Scripts/main/Hehe%202'))()
 
 end)
 
@@ -117,7 +117,7 @@ local tab2 = library:CreateTab("      Misc", true)
 local button = library:MakeButton(tab2,"Item Gui",function(button)
 
 
-loadstring(game:HttpGet("https://pastebin.com/raw/9fyyVTSg"))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Thanhtv68/Scripts/main/Hehe%203"))() 
 
 
 end)
